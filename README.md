@@ -5,7 +5,7 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
 
-
+---
 
 * Array
 
@@ -19,6 +19,7 @@ this could then be turned into a matrix array by adding a second dimension (rows
 
 then you would have an organised matrix of details about all the information, category by category. This is done by adding OBJECTS, KEY VALUES AND METHODS. 
 
+---
 
 * Object
 
@@ -28,13 +29,15 @@ EG our HIGH SCORE is stored as 3987, but we just beat it, so the object HIGH SCO
 
 Our RANKING can go up to #8 and we are closer to receiving a better TROPHY.
 
+---
+
 * Method
 
 This is a procedure (like a function) that is executed when an object receives a method. 
 
 EG as we've beaten our HIGH SCORE and can be granted an EXTRALIFE, the method can be written to improve our RANKING.
 
-
+---
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
